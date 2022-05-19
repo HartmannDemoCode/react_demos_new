@@ -11,6 +11,9 @@ https://reactrouter.com/docs/en/v6/getting-started/tutorial
 - `npm install react-router-dom@6`
 - `npm run dev`
 
+### Demos
+#### Reducer demo
+The reducer hook is a more advanced verson of the useState hook. It kan be used to manage state when there are a need for more complex/conditional updates to state: reducerdemo.jsx
 
-
-# repo auto created
+#### Infinite scroll
+The infinite scroll option shows a way to load images gradually/ lazy loading as they are needed. It is an alternative to pagination. Uses the IntersectionObserver.
